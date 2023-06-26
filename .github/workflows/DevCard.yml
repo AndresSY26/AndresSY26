@@ -18,4 +18,4 @@ jobs:
       - name: devcard
         uses: dailydotdev/action-devcard@2.0.2
         with:
-          devcard_id: https://api.daily.dev/devcards/0fce53f537934f62b5e6855eb02feb97.png?r=uzu
+          devcard_id: 0fce53f537934f62b5e6855eb02feb97
